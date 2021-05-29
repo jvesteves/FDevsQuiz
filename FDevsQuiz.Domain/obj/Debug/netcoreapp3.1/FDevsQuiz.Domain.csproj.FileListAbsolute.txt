@@ -1,0 +1,9 @@
+D:\ASPNet-FDevs\FDevsQuiz\FDevsQuiz.Domain\bin\Debug\netcoreapp3.1\FDevsQuiz.Domain.deps.json
+D:\ASPNet-FDevs\FDevsQuiz\FDevsQuiz.Domain\bin\Debug\netcoreapp3.1\FDevsQuiz.Domain.dll
+D:\ASPNet-FDevs\FDevsQuiz\FDevsQuiz.Domain\bin\Debug\netcoreapp3.1\FDevsQuiz.Domain.pdb
+D:\ASPNet-FDevs\FDevsQuiz\FDevsQuiz.Domain\obj\Debug\netcoreapp3.1\FDevsQuiz.Domain.csprojAssemblyReference.cache
+D:\ASPNet-FDevs\FDevsQuiz\FDevsQuiz.Domain\obj\Debug\netcoreapp3.1\FDevsQuiz.Domain.AssemblyInfoInputs.cache
+D:\ASPNet-FDevs\FDevsQuiz\FDevsQuiz.Domain\obj\Debug\netcoreapp3.1\FDevsQuiz.Domain.AssemblyInfo.cs
+D:\ASPNet-FDevs\FDevsQuiz\FDevsQuiz.Domain\obj\Debug\netcoreapp3.1\FDevsQuiz.Domain.csproj.CoreCompileInputs.cache
+D:\ASPNet-FDevs\FDevsQuiz\FDevsQuiz.Domain\obj\Debug\netcoreapp3.1\FDevsQuiz.Domain.dll
+D:\ASPNet-FDevs\FDevsQuiz\FDevsQuiz.Domain\obj\Debug\netcoreapp3.1\FDevsQuiz.Domain.pdb
